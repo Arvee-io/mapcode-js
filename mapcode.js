@@ -2505,8 +2505,6 @@ function convertFromAbjad(result) {
 }
 
 module.exports = {
-    encodeMapcode,
-    decodeMapcode,
     encodeWithPrecision,
     encode,
     encodeInternational,
