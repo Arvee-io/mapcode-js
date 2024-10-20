@@ -1,0 +1,13 @@
+{
+  "name": "mapcode",
+  "version": "1.0.0",
+  "description": "Library for mapcode support",
+  "main": "mapcode.js",
+  "files": [
+    "mapcode.js",
+    "ndata.js",
+    "ctrynams.js"
+  ],
+  "keywords": ["mapcode", "geolocation"],
+  "license": "Apache 2.0"
+}
