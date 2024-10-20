@@ -13,6 +13,16 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+
+const {
+    data_start,
+    data_minx,
+    data_miny,
+    data_maxx,
+    data_maxy,
+    data_special1
+} = require('./ndata');
+
 var iso3166alpha = [
 
     'VAT', 'MCO', 'GIB', 'TKL', 'CCK', 'BLM', 'NRU', 'TUV', 'MAC', 'SXM',
