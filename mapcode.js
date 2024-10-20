@@ -2504,3 +2504,7 @@ function convertFromAbjad(result) {
     return prefix + aeu_pack(s, false) + postfix;
 }
 
+module.exports = {
+    encodeMapcode,
+    decodeMapcode
+};
