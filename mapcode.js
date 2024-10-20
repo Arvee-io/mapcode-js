@@ -2506,5 +2506,21 @@ function convertFromAbjad(result) {
 
 module.exports = {
     encodeMapcode,
-    decodeMapcode
+    decodeMapcode,
+    encodeWithPrecision,
+    encode,
+    encodeInternational,
+    encodeInternationalWithPrecision,
+    encodeShortestWithPrecision,
+    encodeShortest,
+    getTerritoryNumber,
+    getTerritoryFullname,
+    getParentOf,
+    isSubdivision,
+    hasSubdivision,
+    getTerritoryAlphaCode,
+    distanceInMeters,
+    convertToAlphabet,
+    convertToAlphabetAsHTML,
+    decode
 };
