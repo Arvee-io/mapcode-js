@@ -20,7 +20,8 @@ const {
     data_miny,
     data_maxx,
     data_maxy,
-    data_special1
+    data_special1,
+    data_flags
 } = require('./ndata');
 
 var iso3166alpha = [
