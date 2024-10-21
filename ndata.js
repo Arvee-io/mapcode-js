@@ -8271,5 +8271,6 @@ module.exports = {
     data_miny,
     data_maxx,
     data_maxy,
-    data_special1
+    data_special1,
+    data_flags
 };
