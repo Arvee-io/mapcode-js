@@ -1,6 +1,6 @@
 {
   "name": "mapcode",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Library for mapcode support",
   "main": "mapcode.js",
   "files": [
